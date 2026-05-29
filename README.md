@@ -33,3 +33,15 @@ The Blinkit Sales Dashboard is designed to analyze retail and grocery sales perf
 
 ## Dashboard
 <img width="992" height="549" alt="BLINKIT DASHBOARD" src="https://github.com/user-attachments/assets/660dc603-5aed-41b6-a4f8-bca434eabf4d" />
+
+## Project Insight
+- Total sales crossed $1.20M with over 8,500 items sold.
+- Medium-sized outlets contribute the highest revenue share.
+- Tier 3 outlet locations generate maximum sales.
+- Fruits, Snacks, and Household items are top-selling categories.
+- Low-fat and regular products show different purchasing trends.
+- Grocery Store outlets outperform supermarket types in total sales.
+- Outlet establishment trends indicate strong business growth over time.
+
+## Final Conclusion:
+The dashboard provides a complete overview of Blinkit’s sales and outlet performance by analyzing products, customer ratings, outlet types, and regional contributions. It helps businesses identify high-performing outlets, optimize inventory management, understand customer preferences, and improve operational strategies through interactive and data-driven insights.
