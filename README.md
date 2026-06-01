@@ -5,7 +5,7 @@ The Blinkit Sales Dashboard is designed to analyze retail and grocery sales perf
 # Dataset Used
 - <a href="https://github.com/Manika-Sachdeva/Blinkit-Sales-Dashboard/blob/main/BlinkIT%20Grocery%20Data.xlsx">Dataset</a>
 
-## Questions (KPIS) 
+## Questions (KPIS)
 - What is the total sales revenue generated?
 - What is the average sales value?
 - How many items were sold?
