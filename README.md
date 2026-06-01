@@ -31,7 +31,7 @@ The Blinkit Sales Dashboard is designed to analyze retail and grocery sales perf
 - Designed interactive Power BI visualizations including donut charts, bar charts, KPI cards, and trend analysis graphs.
 - Added slicers and filters for dynamic dashboard interaction.
 
-## Dashboard
+## Dashboard 
 <img width="992" height="549" alt="BLINKIT DASHBOARD" src="https://github.com/user-attachments/assets/660dc603-5aed-41b6-a4f8-bca434eabf4d" />
 
 ## Project Insight
